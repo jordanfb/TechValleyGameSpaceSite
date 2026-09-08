@@ -4,6 +4,7 @@
 
 layout: post
 permalink: /
+path: home
 ---
 <img src="{{ site.baseurl }}/Images/tvgsWebsiteMainPage.jpg" alt="A cartoon video game controller floating through space" />
 

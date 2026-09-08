@@ -2,6 +2,7 @@
 layout: page
 title: Membership and Donations
 permalink: /join/
+path: join
 ---
 
 # Thank you for choosing to support TVGS as a member or with a donation!

@@ -2,6 +2,7 @@
 layout: page
 title: Liftoff
 permalink: /liftoff/
+path: liftoff
 ---
 
 Please forgive our appearance, we're working on the website.

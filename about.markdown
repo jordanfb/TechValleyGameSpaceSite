@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+path: about
 ---
 
 <img src="{{ site.baseurl }}/Images/guestSpeaker1-scaled.jpg" alt="TVGS Members at a meeting" />

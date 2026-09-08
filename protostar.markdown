@@ -2,6 +2,7 @@
 layout: page
 title: Protostar
 permalink: /protostar/
+path: protostar
 ---
 
 Please forgive our appearance, we're working on the website and on improving the future of Protostar!

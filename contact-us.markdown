@@ -2,6 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact/
+path: contact
 ---
 
 <img src="{{ site.baseurl }}/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />

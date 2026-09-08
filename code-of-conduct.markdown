@@ -2,6 +2,7 @@
 layout: page
 title: Code of Conduct
 permalink: /code-of-conduct/
+path: code-of-conduct
 ---
 
 <img src="{{ site.baseurl }}/Images/logo_header_1200x628.jpg" alt="TVGS logo floating through cartoon space" />

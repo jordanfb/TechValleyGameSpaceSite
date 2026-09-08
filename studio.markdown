@@ -2,6 +2,7 @@
 layout: page
 title: Coworking
 permalink: /studio/
+path: studio
 ---
 
 

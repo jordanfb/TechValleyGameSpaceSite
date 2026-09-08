@@ -2,6 +2,7 @@
 layout: page
 title: Board Meeting Minutes
 permalink: /minutes/
+path: minutes
 ---
 
 As we migrate over to this new site layout we're working on making all our past meeting minutes availible.
